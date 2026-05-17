@@ -75,7 +75,7 @@ kidik4/kittygram_gateway:latest
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/kidik4/kittygram_final.git
+git clone https://github.com/zerdocs122/kittygram_final.git
 cd kittygram_final
 ```
 2. Создайте файл окружения:
