@@ -183,6 +183,14 @@ Content-Type: application/json
 | `docker-compose.production.yml` | Конфигурация для продакшена |
 | `.github/workflows/` | CI/CD пайплайн GitHub Actions |
 
+## Вывод
+
+В ходе проекта освоил построение полного CI/CD пайплайна через GitHub Actions: 
+автоматическое тестирование, сборку Docker-образов и деплой на удалённый сервер. 
+Настроил Telegram-уведомления об успешном деплое, научился работать 
+с Docker Hub как реестром образов и организовывать микросервисную 
+архитектуру через Docker Compose.
+
 ## Автор
 
 GitHub: zerdocs
