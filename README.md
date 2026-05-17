@@ -77,7 +77,7 @@ kidik4/kittygram_gateway:latest
 ```bash
 git clone https://github.com/kidik4/kittygram_final.git
 cd kittygram_final
-
+```
 2. Создайте файл окружения:
 
 cp .env.example .env
@@ -172,7 +172,7 @@ Content-Type: application/json
     ]
 }
 
-## Структура репозитория
+## Структура проекта
 
 | Папка/Файл | Описание |
 |---|---|
