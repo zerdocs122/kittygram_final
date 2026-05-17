@@ -172,6 +172,17 @@ Content-Type: application/json
     ]
 }
 
+## Структура репозитория
+
+| Папка/Файл | Описание |
+|---|---|
+| `backend/` | Django backend |
+| `frontend/` | React frontend |
+| `nginx/` | Конфигурация Nginx |
+| `docker-compose.yml` | Конфигурация для разработки |
+| `docker-compose.production.yml` | Конфигурация для продакшена |
+| `.github/workflows/` | CI/CD пайплайн GitHub Actions |
+
 ## Автор
 
 GitHub: zerdocs
